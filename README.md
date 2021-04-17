@@ -19,6 +19,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 * [Tunisian DATAI](https://github.com/TounesAI/Awesome-Tunisian-DATAI)
 
 ### Communities & Organisations
+#IEEE ENSTAB CIS SC
 #### Directly
  - [Tunisian Association of Artificial Intelligence (ATIA)]
  - [IEEE Computational Intelligence Societties (CIS)]
